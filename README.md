@@ -234,14 +234,14 @@ gputil
 ```
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - ModernBERT by Answer.ai
 - UNSW-NB15 Dataset (optional testing dataset)
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - GPU is recommended for embedding generation (CUDA supported)
 - RAG classifier uses `temperature = 0.1` for confidence calibration
